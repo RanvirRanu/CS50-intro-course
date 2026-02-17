@@ -1,8 +1,5 @@
 ## cs50 Introduction To Computer Science
-I made this repository to post my solutions to Harvard University's <a href='https://www.edx.org/course/cs50s-introduction-to-computer-science'>2020 CS50 intro course</a> assignments and document my progress during the course. <br>
-You can find the materials for the course <a href='https://cs50.harvard.edu/x/2020/'>here</a> or look at the assignments specifications linked at right of every section in the table of contents. <br>
-Hope this is helpful to other students, if you don't mind please leave a star!
-Every exercise in this repository scored 100% on submission.
+I Took this course back in 2020 as a younging. I think every single one of my other projects show off my abilities mcuh more. But I keep this up for nostolgia 
 
 ## Table Of Contents
 
@@ -42,12 +39,3 @@ Every exercise in this repository scored 100% on submission.
   * [houses](/Python/pset7/houses/houses)
 - [Problem Set 8: Web](/Python/finance) - <a href='https://cs50.harvard.edu/x/2020/tracks/web/'> Web Tracks</a>
   * [finance](/Python/finance)
-- [Final Project: Lispy](https://github.com/Federico-abss/Lispy)
-   * An interpreted, functional programming language based on Lisp and written in C. <br>
-    Follow [the instructions](https://github.com/Federico-abss/Lispy#using-cs50-ide-step-by-step) to try it in your ide!
-
-### Final Certificate!
-![Final Certificate](CS50%20certificate.png)
-
-### DISCLAIMER:
-Please don't just copy the code mindlessly without trying to solve the problems yourself, it's totally pointless if you actually wanna learn how to write software and a blatant violation of the [**Academic Honesty**](https://docs.cs50.net/2016/fall/syllabus/cs50.html#academic-honesty) policy of the course.
